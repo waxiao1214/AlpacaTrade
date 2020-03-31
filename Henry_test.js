@@ -1,5 +1,5 @@
-const API_KEY = 'PKL6VCX3KFXQV5D4CQKO';
-const API_SECRET = 'bA8pjTP7xI0NELZmCLhXuQf91aXuiShN90oPdQCH';
+const API_KEY = '';
+const API_SECRET = '';
 const PAPER = true;
 
 class LongShort {
